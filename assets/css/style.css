@@ -1,9 +1,9 @@
 body {
 	/* background-color: #392b86; */
 	font-family: 'Cabin', sans-serif;
-	margin: 0;
+	margin: 1px;
 	padding: 0;
-	border:0;
+	border: 0;
   }
 
   
@@ -14,6 +14,7 @@ body {
       background: none;
   
   }
+   /* TAMAÑO LOGO MENU */
 
      /* Fondo de menú CORRECTO*/
  .navbar 
@@ -21,3 +22,12 @@ body {
    background: #37c4dd;
    }
  /* Fondo de menú  CORRECTO*/
+
+
+ /* Nav no oculpa el carrusel */
+nav{
+  overflow: hidden;
+}
+ /* Nav no oculpa el carrusel */
+
+ 
