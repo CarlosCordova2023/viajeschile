@@ -1,13 +1,8 @@
-body {
-  /* margin: 0;
-  border: 0;
-  padding: 0; */
-}
+
 body {
   background-color: black;
   color: white;
 }
-
 
     /* TAMAÑO LOGO MENU */
     .svg {
@@ -32,17 +27,18 @@ nav{
  /* Nav no oculpa el carrusel */
 
  /* FORMULARIO */
- .header {
-  color: #080808;
-  font-size: 17px;
-  padding: 0px;
-}
 
-.bigicon {
-  font-size: 2px;
-  color: #0f0f0f;
-}
 
 
  /* FORMULARIO */
+
+ .card {
+  margin: 0 20px;
+  background-color: #37c4dd;
+}
+
+.footer {
+		background-color:#37c4dd;
+  }
+  
 
