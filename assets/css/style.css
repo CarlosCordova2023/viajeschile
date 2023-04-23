@@ -36,6 +36,9 @@ nav{
 
 }
 
+.card{
+  object-fit: cover;
+}
  /* FORMULARIO */
 
  .card {
