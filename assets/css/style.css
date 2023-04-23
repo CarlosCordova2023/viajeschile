@@ -1,18 +1,12 @@
-body {
-	/* background-color: #392b86; */
-	font-family: 'Cabin', sans-serif;
-	margin: 1px;
-	padding: 0;
-	border: 0;
-  }
-
-  
+* body {
+    background-color: rgb(0, 0, 0);
+    
+}
     /* TAMAÑO LOGO MENU */
     .svg {
       width: 30px;
       height: 30px;
-      background: none;
-  
+        
   }
    /* TAMAÑO LOGO MENU */
 
