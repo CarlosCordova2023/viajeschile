@@ -1,7 +1,23 @@
 body {
-	background-color: #392b86;
+	/* background-color: #392b86; */
 	font-family: 'Cabin', sans-serif;
 	margin: 0;
 	padding: 0;
 	border:0;
   }
+
+  
+    /* TAMAÑO LOGO MENU */
+    .svg {
+      width: 30px;
+      height: 30px;
+      background: none;
+  
+  }
+
+     /* Fondo de menú CORRECTO*/
+ .navbar 
+ {
+   background: #37c4dd;
+   }
+ /* Fondo de menú  CORRECTO*/
